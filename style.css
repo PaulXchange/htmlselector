@@ -1,0 +1,31 @@
+[type="text"]{
+    padding: 1em;
+    border-radius: 5px;
+    color: blue;
+    border: none;
+    width: 700px;
+}
+[type="submit"]{
+    background: #9b59b6;
+    padding: 10px 30px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+[title="visit google"]{
+    background: red;
+}
+
+[class="post-1"]{
+    color: green;
+}
+
+[class|="learning"]{
+    background: yellow;
+}
+/**
+
+blog-post
+**/
